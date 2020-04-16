@@ -1,8 +1,9 @@
-package ZT_ByteDance;
+package CompanyExam2020;
 import java.lang.StringBuilder;
+
 import java.util.Scanner;
 
-public class Ques1 {
+public class zj_Ques1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
